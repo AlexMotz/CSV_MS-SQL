@@ -9,11 +9,11 @@ A table to populate is given by the -t/--table option or
 by the basename of the input file (if not standard input).
 
 Fields are either given by the -f/--fields option (comma
-separated) or determinted from the first row of data.
+separated) or determined from the first row of data.
 
 --------------------------------------------------------
 
 Eventually I would like it to sanitize the data it reads 
-from the CSV before writing the SQL inport statments.
-For now a simpe find and replace all in your favorite 
+from the CSV before writing the SQL import statements.
+For now a simple find and replace all in your favorite 
 spreadsheet editor does the trick.
